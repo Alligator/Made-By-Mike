@@ -1,3 +1,6 @@
 noupload/*
 pedals/*
 custom/*
+*~
+*.swp
+.gitignore

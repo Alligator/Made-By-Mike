@@ -1,3 +1,3 @@
 # Made By Mike
 
-[*Made By Mike*](http://madebymike.co.uk/) by [Reece Selwood]
+Up to date source of [*Made By Mike*](http://madebymike.co.uk/).
