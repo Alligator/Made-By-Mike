@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Pedals</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Pedals</h1>
+		<div id="pedalcol">
+			<div id="rcol">
+				<a href="saltbooster.shtml">Salt Booster</a><br/>
+				A classic booster. This pedal can be used to girth up your clean sound, or smack the front end of an amp or drive pedal for more gain and harmonics.
+			</div>
+			<div id="lcol">
+				<a href="saltbooster.shtml"><img src="pedals/SaltBoosterBlueThumb.jpg" class="right"/></a>
+			</div>
+		</div>
+		
+		<div id="pedalcol">
+			<div id="rcol">
+				<a href="bigmuff.shtml">Green Muff</a><br/>
+				Based on the Russian Sovtek Green Big Muff. Loved by bass players and guitarists alike, this is one of the most popular Muff designs ever produced.
+			</div>
+			<div id="lcol">
+				<a href="greenmuff.shtml"><img src="pedals/GreenMuffGreenThumb.jpg" class="right"/></a>
+			</div>
+		</div>
+		
+		<div id="pedalcol">
+			<div id="rcol">
+				<a href="saltshaker.shtml">Salt Shaker</a><br/>
+				A simple yet versatile tremolo sporting both modern and vintage style sounds.
+			</div>
+			<div id="lcol">
+				<a href="saltshaker.shtml"><img src="pedals/SaltShakerYellowThumb.jpg" class="right"/></a>
+			</div>
+		</div>
+		
+		<div id="pedalcol">
+			<div id="rcol">
+				<a href="saltstorm.shtml">Salt Storm</a><br/>
+				A vintage style crumbly overdrive. The Salt Storm has a garagey, punky dirt sound.
+			</div>
+			<div id="lcol">
+				<a href="saltstorm.shtml"><img src="pedals/SaltStormYellowThumb.jpg" class="right"/></a>
+			</div>
+		</div>
+		
+		<div id="pedalcol">
+			<div id="rcol">
+				<a href="saltbreaker.shtml">Salt Breaker</a><br/>
+				A Salty overdrive pedal with a whole whack-load of tweakability. Set the basic sound with the three trimpots inside the pedal, and then enjoy being able to sweep the tone control across it's entire range to produce a bunch of tasty tones
+			</div>
+			<div id="lcol">
+				<a href="saltbreaker.shtml"><img src="pedals/SaltBreakerThumb.jpg" class="right"/></a>
+			</div>
+		</div>
+		
+		<div id="pedalcol">
+			<div id="rcol">
+				<a href="fuzzface.shtml">Fuzz Face</a><br/>
+				A modern take on a vintage classic. This version of the Fuzz Face uses germanium PNP transistors like the originals but has extra controls for versatility.
+			</div>
+			<div id="lcol">
+				<a href="fuzzface.shtml"><img src="pedals/FuzzFaceYellowThumb.jpg" class="right"/></a>
+			</div>
+		</div><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

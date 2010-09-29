@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Features</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Features</h1>
+		<p>As standard - see individual pedal pages for any differences.</p>
+		<ul><li>True bypass via 3PDT switch </li>
+		<li>Metal bezled LED(LED colours negotiable)</li>
+		<li>Neutrik jacks</li>
+		<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+		<li>Alpha pots</li>
+		</ul>
+		<p>Every pedal comes with a 2 year warranty whereby I will fix any issues for free unless you have stabbed the insides with a fork, plugged in a scary AC power supply or something equally evil. If that is the case then I will still fix the pedal but you'll have to pay for any parts that have been sporked or fried.</p>
+		<p>I love the planet and as such prefer to offer DC only power on all my pedals utilising the Boss style 2.1mm centre negative barrel type connection. Any Powerbank or Boss adaptor will do.</p>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Green Muff</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Green Muff - £60</h1>
+Green Big Muff<br/>
+<a href="http://www.youtube.com/watch?v=jOrIvkfdkc8" target="_blank">Demo</a>&nbsp&nbsp
+<a href="gmpictures.shtml">Pictures</a> 
+<p>Electro-Harmonix are a legendary company who have always pushed the boundary and produced fantastic sounding classic effects, as such they have always moved forwards with designs and often not looked back, sometimes leaving a classic in their wake. The Russian Sovtek Green Big Muff is one such classic. Loved by bass players and guitarists alike, this is one of the most popular Muff designs ever produced. Full of rich distortion fuzz power and a healthy bass response (and plenty of volume unlike some of the more recent offerings), this pedal will nail those classic Muff tones.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Volume, Tone, Distortion</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/greenmuff/GreenMuffGreen.jpg" class="right"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

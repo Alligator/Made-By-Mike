@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Germanium MKIII Tonebender</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Germanium MKIII Tonebender - £75</h1>
+Fuzz<br/>
+<p>The Tonebender is a classic, and rightly so. I've selected the Mark III version to reproduce since it is in my opinion the most flexible version, you can cop Mark II sounds with a bit of tweaking, and the added tone control makes the pedal much more tuneable to your setup than a Mark II, which can be a suck-it-and-see pedal. Whole Lotta Love sounds are here in spades.</p>
+<p>The Germanium Tonebender is a positive ground pedal, which means that instead of using a standard pair of power rails at Ground (0V) and +9V, it utilises 0V and -9V in order to support the PNP germanium transistors. As a result it cannot be daisy chained with other 'regular' pedals (but can be daisy chained with other positive ground pedals, such as other similar fuzzes). For this reason I do add battery power as a standard cost-free option. I also include a Boss style DC jack input (2.1mm centre negative) and have wired this internally such that you can plug a regular Boss supply into the pedal and power it in isolation. It cannot be daisy chained still but this provides an option if you are without batteries or have a spare adaptor.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Battery Clip</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Fuzz, Tone, Volume</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/tonebender/gertb1.jpg" class="border"/><br/><br/>
+<img src="pedals/tonebender/gertb2.jpg" class="border"/><br/><br/>
+<img src="pedals/tonebender/gertb3.jpg" class="border"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Saltshaker</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Saltshaker - £80</h1>
+Tremolo<br/>
+<a href="http://www.youtube.com/watch?v=HQfnx2wwdBs" target="_blank">Demo One</a>&nbsp&nbsp
+<a href="http://www.youtube.com/watch?v=xYHnYeMo_fw" target="_blank">Demo Two</a>&nbsp&nbsp
+<a href="sspictures.shtml">Pictures</a> 
+<p>How soon is now? Well, it's now. This tremolo can be as simple or as versatile as you want it to be. The Salt Shaker is one of the most versatile tremolos around; the usual Depth and Rate controls are joined by a Fine speed control to fine-tune the Tremolo Rate, aswell as a Shape control to continuously vary the waveform from a hard square-wave to a soft sinewave (modern to vintage). Finally, a Ratio control changes the mark-space ratio or the relationship between the 'on' and 'off' sections of the Tremolo waveform, an internal trimpot sets overall volume.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Depth, Rate, Fine, Shape, Ratio, internal Volume trimpot</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/saltshaker/SaltShakerYellow.jpg" class="right"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

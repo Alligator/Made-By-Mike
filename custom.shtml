@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Custom</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Custom</h1>
+
+		<p>On top of all the standard pedals shown on this site I can also do custom builds for people who having something different in mind. A custom build might be as simple as moving the jack or pot positioning on one of the standard pedals, or a completely new build of a different pedal design to your specs.</p>
+
+		<p>If you've seen a classic pedal that you would love to have but can't justify the inflated ebay value then contact me. Chances are I can build you a version of it that is sonically accurate and features modern creature comforts like DC power in a standard adaptor, true-bypass switching and LED indication. This is the way I started building pedals so I have a lot of experience in one-off builds.</p>
+
+		<p>The price will vary depending on the complexity of the build and availability of parts but for a guideline please view the standard pedals. For any querys drop me a line at:</p>
+		<a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a>
+		<p>Some example of previous custom work:</p>
+		<img src="custom/ratmuff.jpg" class="border"/><br/><br/>
+		<img src="custom/rat.jpg" class="border"/><br/><br/>
+		<img src="custom/custom1.jpg" class="border"/><br/><br/>
+		<img src="custom/custom2.jpg" class="border"/><br/><br/>
+		<img src="custom/custom3.jpg" class="border"/><br/><br/>
+		<img src="custom/custom4.jpg" class="border"/><br/><br/>
+		<img src="custom/custom5.jpg" class="border"/><br/><br/>
+		<img src="custom/custom6.jpg" class="border"/><br/><br/>
+		<img src="custom/custom7.jpg" class="border"/><br/><br/>
+		<img src="custom/custom8.jpg" class="border"/><br/><br/>
+		<img src="custom/custom9.jpg" class="border"/><br/><br/>
+		<img src="custom/BassBoost.jpg"/><br/><br/>
+		<img src="custom/BenecolCustom.jpg"/><br/><br/>
+		<img src="custom/BenecolLuddite.jpg"/><br/><br/>
+		<img src="custom/CustomRedGreen.jpg"/><br/><br/>
+		<img src="custom/SaltBoostLoop.jpg"/><br/><br/>
+		<img src="custom/TrystieDrive.jpg"/><br/><br/>
+		<img src="custom/TwoInOne.jpg"/><br/><br/>
+		<img src="custom/TwoInOneNoirie.jpg"/><br/><br/>
+		<img src="custom/YellowThreeKnob.jpg"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

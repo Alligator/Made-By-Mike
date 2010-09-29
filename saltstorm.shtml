@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Salt Storm</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Salt Storm - £60</h1>
+Overdrive<br/>
+<a href="sstpictures.shtml">Pictures</a> 
+<p>A richly harmonic overdrive pedal recreating the sound of a British stack at full tilt, with more mellow break-up tones also available. Tone switch gives you two different flavours of mid-range content.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Salt, Tone, Volume</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/saltstorm/SaltStormYellow.jpg" class="right"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

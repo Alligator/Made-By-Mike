@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Silicon MKIII Tonebender</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Silicon MKIII Tonebender - £75</h1>
+Fuzz<br/>
+<p>The Tonebender is a classic, and rightly so. I've selected the Mark III version to reproduce since it is in my opinion the most flexible version, you can cop Mark III sounds with a bit of tweaking, and the added tone control makes the pedal much more tuneable to your setup than a Mark II, which can be a suck-it-and-see pedal. This is a Silicon version of the Tonebender Mark II pedal I've copied from an original I borrowed from a friend. It's a really great unique sounding fuzz pedal with a chunky bass response - it's a sleeper and wins lots of fans whenever they're introduced to it.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Battery Clip</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Fuzz, Tone, Volume</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/tonebender/gertb1.jpg" class="border"/><br/><br/>
+<img src="pedals/tonebender/gertb2.jpg" class="border"/><br/><br/>
+<img src="pedals/tonebender/gertb3.jpg" class="border"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

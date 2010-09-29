@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Germanium Fuzz Face</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Germanium Fuzz Face - £60</h1>
+Fuzz<br/>
+<a href="http://www.youtube.com/watch?v=ZJ8RFY-afSI" target="_blank">Demo</a>&nbsp&nbsp
+<a href="ffpictures.shtml">Pictures</a> 
+<p>A popular take on one of the most revolutionary and influential effects of all time, the Fuzz Face turned heads and blew minds, and at the feet of Hendrix and many other guitarists who cut their teeth in the 60s, helped to define this thing called Rock we love so much. This version of the Fuzz Face uses germanium PNP transistors like the originals, and sports the expected Fuzz and Volume controls, along with two other gain and tone shaping controls; Bias and Contour. The Bias control acts as a pre-gain attenuation control, which can tighten up any bassy flub at high Fuzz levels, whilst the Contour control adds midrange and harmonic emphasis as it is increased. The overall result is a very versatile Fuzz pedal that you will find yourself playing for hours.</p>
+<p>The Fuzz Face is a positive ground pedal, which means that instead of using a standard pair of power rails at Ground (0V) and +9V, it utilises 0V and -9V in order to support the PNP germanium transistors. As a result it cannot be daisy chained with other 'regular' pedals (but can be daisy chained with other positive ground pedals, such as other similar fuzzes). For this reason I do add battery power as a standard cost-free option. I also include a Boss style DC jack input (2.1mm centre negative) and have wired this internally such that you can plug a regular Boss supply into the pedal and power it in isolation. It cannot be daisy chained still but this provides an option if you are without batteries or have a spare adaptor..</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Battery Clip</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls -Fuzz, Bias, Contour, Volume</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/fuzzface/FuzzFaceYellow.jpg" class="right"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

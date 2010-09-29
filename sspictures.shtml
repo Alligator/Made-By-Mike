@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Salt Booster</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+	<h1>Salt Shaker</h1>
+		<p>
+		<img src="pedals/saltshaker/SaltShakerYellow.jpg"/><br/><br/>
+		<img src="pedals/saltshaker/SaltShakerBack.jpg"/><br/><br/>
+		<img src="pedals/saltshaker/SaltShakerPink1.jpg"/><br/><br/>
+		<img src="pedals/saltshaker/SaltShakerPink2.jpg"/><br/><br/>
+		<img src="pedals/saltshaker/SaltShakerGuts.jpg"/><br/><br/>
+		<a href="JavaScript:window.history.back()">Back</a>
+		</p>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>

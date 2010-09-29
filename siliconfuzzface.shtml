@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Silicon Fuzz Face</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Silicon Fuzz Face - £60</h1>
+Fuzz<br/>
+<p>A silicon version of the Modded Fuzz Face design, meaning this pedal can be safely daisy chained with other pedals off the same power supply on your pedalboard. Silicon Fuzz Faces do sound different to their Germanium counterparts; they're generally more aggressive and have more low-end content to their fuzztone - but they're still very popular and for good reason. The recent Jimi Hendrix Reissue Fuzzface is a Silicon design and sounds great. If you're looking for a vintage 60s Fuzz sound in a package more pedalboard friendly - then look no further.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Battery Clip</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls -Fuzz, Bias, Contour, Volume</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/fuzzface/siliconfuzzface.jpg" class="border"/><br/><br/>
+<img src="pedals/fuzzface/siliconfuzzfaceback.jpg" class="border"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

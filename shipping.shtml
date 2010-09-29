@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Shipping</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Shipping</h1>
+<p>£3 - First class recorded to UK
+£5 - ROW via Airmail</p>
+<p>All pedals are made to order and there is currently a lead time of 2-3 weeks.</p>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

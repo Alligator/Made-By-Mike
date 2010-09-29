@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Modded 808 Tubescreamer</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Modded 808 Tubescreamer - £75</h1>
+Overdrive<br/>
+<a href="http://www.youtube.com/watch?v=-wc0w2UStF8" target="_blank">Demo</a>
+<p>The fabled TS-808 has appeared on countless classic performances and is still as richly loved as it ever has been, with originals fetching pricely sums on the second hand collectors market - however there is nothing magical about this circuit or the parts that make it great - they still make Op-amps, Diodes, Resistors and Capacitors as well as they used to (better in fact in some cases) and great sounding reproductions can be made without any need for snake oil or unobtanium. I build a reproduction of the TS-808 with an added Voice control to change the tonal response and gain character simulataneously to give you more available options, and if you should need it more low-end content to your sound. All the classic Tubescreamer sounds are in this box, along with a few more to add to your sonic palette.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Battery Clip</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Gain, Volume, Voice, Tone</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a><br/><br/>
+<img src="pedals/tubescreamer/ts1.jpg" class="border"/><br/><br/>
+<img src="pedals/tubescreamer/ts3.jpg" class="border"/><br/><br/>
+<img src="pedals/tubescreamer/ts2.jpg" class="border"/><br/><br/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

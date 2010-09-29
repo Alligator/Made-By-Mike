@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Made By Mike</h1>
+		<p>Hi, I'm Mike. You might recognise me from such videos as "that one off youtube where the guy can barely play". I also build pedals. All pedals available via this website are made by hand, by me, in the UK.</p>
+		<p>I build pedals because I enjoy the process but nothing gives me more of a kick than to hear from a satisfied customer who is in love with their new pedal.</p>
+		<p>I use the highest quality parts I can source.</p>
+		<img src="pedals/indeximage.png"/>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

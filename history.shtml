@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - History</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>History</h1>
+
+		<p>Hi, my name is Mike and I build pedals in my spare time. It sounds like some form of horrible styrofoam coffee meeting opening gambit but it's the truth. I'm a guitar player, a bit of a gear nerd and I have a Master's degree in Electronics - it was going to happen sooner or later. I've been playing guitar since I was 11, and whilst I can't claim to have exponentially grown in proficiency in that time, my love for the instrument, music and various devices that enable it to produce glorious sounds is something that has definitely blossomed, or maybe bloomed like algae might be a more fitting analogy. I play guitar, I play pedals, I play amps. I read about them, I write about them, I listen to samples, I watch videos. I build the things. It's a bit more than a hobby. I'm also a big fan of using the internet for its inherent purpose (no, not naked girls) - information exchange. As such I am active on several guitar based forums, my favourite of which, ShortScale.org I am fortunate enough to be an administrator of. You'll also find me on Harmony Central, Offset Guitars, and various stompbox build and design forums.</p>
+
+		<p>You might recognise me from the Youtube demos I make of various gear I own, have owned, have begged or borrowed or built. I do these demos in the hope that people can get an idea about how pedals, guitars and amps sound before they buy online or head out to the music shop, I'm not going to bedazzle you with shred skills, but that's not the point - neutral unbiased representation of the gear is. I have also made Youtube demos of the pedals I build so you can check them out yourself before making an order. I'm also happy to answer any questions you might have.</p>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

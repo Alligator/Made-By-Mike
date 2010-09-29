@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Green Muff</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+	<h1>Green Muff</h1>
+		<p>
+		<img src="pedals/greenmuff/GreenMuffGreen.jpg"/><br/><br/>
+		<img src="pedals/greenmuff/GreenMuffAngle.jpg"/><br/><br/>
+		<img src="pedals/greenmuff/GreenMuffBack.jpg"/><br/><br/>
+		<img src="pedals/greenmuff/GreenMuffGuts.jpg"/><br/><br/>
+		<img src="pedals/greenmuff/GreenMuffGuts2.jpg"/><br/><br/>
+		<img src="pedals/greenmuff/GreenMuffKnobs.jpg"/><br/><br/>
+		<img src="pedals/greenmuff/GreenMuffOrange.jpg"/><br/><br/>
+		<a href="JavaScript:window.history.back()">Back</a>
+		</p>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>

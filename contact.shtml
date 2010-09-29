@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Contact</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Contact</h1>
+<p>You can contact me by email to order or simply to discuss any ideas you may have for a one-off pedal. All pedals are hand-made to order so if you fancy a particular paint colour or a custom decal, get in touch and we'll discuss the details.</p>
+
+<a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

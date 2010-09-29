@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Saltbooster Plus</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Saltbooster Plus - £40</h1>
+		<div id="pedalcoltext">
+			<div id="rcoltext">
+				<img src="pedals/saltboosterplus/sbplusthumb.jpg" class="border"/>
+			</div>
+			<div id="lcoltext">
+Booster<br/>
+<a href="sbpluspictures.shtml">Pictures</a> 
+<p>A classic booster, mildly modified from the ubiquitous Electro-Harmonix LPB-1 Linear Power Booster. This pedal can be used to girth up your clean sound, or smack the front end of an amp or drive pedal for more gain and harmonics. Turn gritty amps into chunky overdrive monsters, turn overdriven amps into wailing feedback dragons, kick your overdrive in the plums and watch it saturate into a fuzztone. The possibilities really are endless and the Saltbooster is packed full of Salty power to cater to all your boost needs. Additional tone control added to cater the treble response to your needs - add edgey cut or mellow your guitar sound out, it's up to you.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Boost, Tone</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a>
+			</div>
+		</div>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>

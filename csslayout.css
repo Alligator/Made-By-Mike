@@ -1,0 +1,142 @@
+/*
+madebymike.co.uk 2010
+*/
+
+html, body {
+	margin: 0px; /*gettin' rid of them borders at the top n' bottom*/
+	padding: 0px;
+	height: 100%;	/*needed to make 100% fill the window in the divs*/
+}
+
+body {
+	background-color: #EEEEEE;
+	font-family: Tahoma;
+	overflow-y: scroll;
+}
+
+div#container {
+	position: relative;
+	width:800px;
+	height: auto !important;	/*this*/
+	height: 100%;				/*is for*/
+	min-height: 100%;			/*browser compatability*/
+	background-color: #FFFFFF;
+	margin-left: auto;	/*centering*/
+	margin-right: auto;	/*centering*/
+	border-left: 3px solid #000000;
+	border-right: 3px solid #000000;
+	background-image: url('left_bg.gif');
+	background-repeat: repeat-y;
+}
+
+div#header {
+	position: relative;
+	padding: 0px;
+	height: 96px;
+	max-height:96px;
+	font-size: 12pt;
+	font-weight: bold;
+	background-image: url('top_bg.gif');
+	background-repeat: repeat-x;
+}
+
+div#sidebar {
+	width: 155px;
+	padding: 6px;
+	float: left;
+	line-height: 100%;
+	height: auto !important;
+	min-height:80%;
+}
+
+div#content {
+	margin-left: 160px;	/*this div wants to fill the whole width of the page for some reason, this pushes it over*/
+	min-height: 80%;
+	height: auto !important;		/* more cross browser stuff*/
+	padding: 3px 15px 16px 15px;		/*padding so the text doesn't get lost behind the footer*/
+	font-size: 12px;
+}
+
+div#footer {
+	padding-bottom: 5px;
+	position: absolute;	/*places this over the content div*/
+	font-size: 10px;
+	height: 16px;
+	bottom: 0;		/*keeps it on the bottom*/
+	width: 99%;
+	text-align: right;
+}
+
+div#pedalcol {
+	height: 174px;
+	padding: 5px;
+}
+
+div#pedalcoltext {
+	height: 500px;
+	padding: 5px;
+}
+
+div#lcol {
+	text-align: center;
+	float:left;
+	width: 40%;
+}
+
+div#lcoltext {
+	height: 500px;
+	float: left;
+	width: 50%;
+}
+
+div#rcol {
+	float:right;
+	width:57%;
+}
+
+div#rcoltext {
+	height: 500px;
+	float:right;
+	width:47%
+}
+
+a {
+	text-decoration: none;
+	font-family: Tahoma;
+	font-weight : bold;
+	font-size: 14px;
+	line-height: 2;
+}
+a.sub {
+	font-weight: normal;
+	line-height: 1.5;
+	font-size: 10px;
+}
+a.footerlink {
+	font-size:12px;
+}
+a:link {color: #000000;}
+a:visited {color: #000000;}
+a:hover {color: #0fa0a0;}
+a:active {color: #cc3333;}
+
+h1 {
+	font-weight: bold;
+	font-size: 16px;
+	line-height: 1;
+}
+
+h2 {
+	text-decoration: none;
+	font-family: Tahoma;
+	font-weight : bold;
+	font-size: 14px;
+	line-height: 50%;
+}
+
+
+img.border {
+	border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}

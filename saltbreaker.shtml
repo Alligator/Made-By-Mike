@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="csslayout.css" />
+<title>MadeByMike - Salt Breaker</title>
+</head>
+<body>
+<div id="container">
+	<!--#include virtual="bannerlinks.html" -->
+	<div id="content">
+		<h1>Salt Breaker - £70</h1>
+		<div id="pedalcoltext">
+			<div id="rcoltext">
+				<img src="pedals/saltbreaker/SaltBreakerRed.jpg" class="right"/>
+			</div>
+			<div id="lcoltext">
+Overdrive<br/>
+<a href="http://www.youtube.com/watch?v=ZzDaQkPVkAo" target="_blank">Demo</a>&nbsp&nbsp
+<a href="sbrpictures.shtml">Pictures</a> 
+<p>A Salty overdrive pedal with a whole whack-load of tweakability. Set the basic sound with the three trimpots inside the pedal, and then enjoy being able to sweep the tone control across it's entire range to produce a bunch of tasty tones. A sweet clean booster also, and very dynamic once things get dirty. Play light and witness the clean up or dig in and rock out.</p>
+<h1>Features</h1>
+<ul><li>Alpha pots</li>
+<li>Neutrik jacks</li>
+<li>True bypass via 3PDT switch </li>
+<li>Boss style 2.1mm centre negative barrel type DC jack</li>
+<li>Metal bezled LED(LED colours negotiable)</li>
+<li>Controls - Gain, Volume, Tone.</li>
+<li>Three trimpots internally set basic sound. (Bass, top left, mids top right, presence, bottom left)</li>
+<li>2-year guarantee</li></ul>
+
+To order send an email to <a href="mailto:madebymikepedals@googlemail.com">madebymikepedals@googlemail.com</a>
+			</div>
+		</div>
+	</div>
+	<!--#include virtual="footer.html" -->
+</div>
+</body>
+</html>
